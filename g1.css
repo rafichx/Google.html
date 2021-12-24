@@ -1,0 +1,46 @@
+#logo{
+    margin-left: 38%;
+  margin-right:38%;
+  padding: 0px;
+}
+.ara{
+    background-color: rgb(207, 205, 205);
+    text-align: center;
+    font-size: 20px;
+}
+#arama{
+    width: 300px;
+ height: 20px;
+    margin-top: -500px;
+}
+#ar1{
+    font-family: "Sofia", sans-serif;
+}
+
+#search{
+    position: absolute;
+    bottom: 65%;
+    left: 42%;
+}
+#lucky{
+    position: absolute;
+    bottom: 65%;
+    left: 50%;
+}
+.div{
+    background-color: lightskyblue;
+    width: 450px;
+    height: 170px;
+    padding: 20%;
+    margin-left: 95%;
+    text-align: center;
+    font-size: 130%;
+    
+    
+}
+.division{
+    float: left;
+}
+h4{
+font-family: 'Times New Roman', Times, serif;
+}
